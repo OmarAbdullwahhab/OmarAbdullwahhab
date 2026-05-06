@@ -5,7 +5,7 @@ I am a seasoned **Software Architect** and **Full-Stack Developer** with a passi
 ---
 
 ### 🔭 I’m currently working on
-*   **The Developer's Swiss Army Knife:** Building a persistent, custom Linux ISO pre-configured with GCC, Java, Rust, and Python for on-the-go development.
+*   **The Developer's Swiss Army Knife:** Building a persistent, custom Linux ISO pre-configured with GCC, Java, Dotnet, Rust,Python, and more languages for on-the-go development.
 *   **SDLC Mastery:** Authoring a precise guide on software engineering principles and launching a comprehensive Udemy course on system design and maintenance.
 *   **Enterprise Solutions:** Modernizing ERP modules and developing streamlined real-estate payment tracking systems.
 
